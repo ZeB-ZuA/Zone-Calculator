@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ZonesCalculatorApplication<zones_calculator>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.udistrital.zones_calculator.ZonesCalculatorApplication",
+            "projectName": "zones_calculator",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
